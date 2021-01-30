@@ -27,4 +27,4 @@ find /usr/share/nginx/html -type d -exec chmod 2775 {} \;
 find /usr/share/nginx/html -type f -exec chmod 0664 {} \;
 
 # Make index.html file on path: /usr/share/nginx/html/
-echo "<h3>This is Created from Github https://github.com/sawantakshay667/AWS_Codes </h3>" > /usr/share/nginx/html/index.html
+echo "<h3>This is Created from Akshay_A_Sawant. Visit my github page https://github.com/sawantakshay667/AWS_Codes/blob/main/Apache_nginx.sh </h3>" > /usr/share/nginx/html/index.html
