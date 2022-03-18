@@ -13,6 +13,8 @@ nginx -v
 
 # Start the Nginx service
 systemctl start nginx
+# my new push from VS Code
+
 
 # enabling the Nginx service
 systemctl enable nginx
